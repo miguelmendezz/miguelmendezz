@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá! Eu sou Miguel 👋
 
-<!--
-**miguelmendezz/miguelmendezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+☕ Desenvolvedor Backend Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Curitiba - PR
+
+Atualmente estudando:
+
+• Java
+• Spring Boot
+• PostgreSQL
+• Docker
+• Git
+• APIs REST
+
+Objetivo:
+
+Conseguir minha primeira oportunidade como Desenvolvedor Backend.
