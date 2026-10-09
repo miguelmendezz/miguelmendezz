@@ -1,3 +1,4 @@
+  <p align="center">🇧🇷 Português | 🇺🇸 <a href="README.en.md">English</a></p>
 <h1 align="center">Miguel Mendes</h1>
 <p align="center">
   <b>Backend Java & IA</b> · Estudante de Engenharia de Software<br>
