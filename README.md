@@ -1,4 +1,4 @@
-<h1 align="center">Miguel [Sobrenome]</h1>
+<h1 align="center">Miguel Mendes</h1>
 <p align="center">
   <b>Backend Java & IA</b> · Estudante de Engenharia de Software<br>
   Curitiba, PR · Aberto a oportunidades como Desenvolvedor Backend Júnior & IA
@@ -31,7 +31,7 @@ Venho de uma carreira fora da tecnologia, o que me trouxe comunicação, respons
 
 ## 🚀 Projetos
 
-### [mise-backend](https://github.com/[usuario]/mise-backend)
+### [mise-backend](https://github.com/miguelmendezz/mise-backend)
 Sistema de gestão para bar, desenvolvido com **Java, Spring Boot e PostgreSQL**.
 API REST para gestão de bar: controle de estoque, fornecedores, reservas de aniversário e cortesias por evento, com validação de saldo e registro de cada movimentação.
 
